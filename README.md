@@ -38,12 +38,8 @@ The Restaurant Menu UI/UX Design project aims to create an intuitive and visuall
 
 ## How to Use
 
-To view the design screens and interact with the prototype:
-
-1. Clone or download the repository to your local machine.
-3. Navigate through different screens using the provided links or buttons.
-4. Interact with the prototype as per the provided instructions.
-
+To view the design screens use this link:
+![Figma Design preview]([Drinks.png](https://www.figma.com/file/jDlqFlJCcghd0AeBNeqklc/CodSoft-RestaurentMenu?type=design&node-id=30%3A261&mode=design&t=CJCj7mtY467Z1hKA-1) 
 ---
 
 ## Contributing
