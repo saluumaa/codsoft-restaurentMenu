@@ -31,7 +31,7 @@ The Restaurant Menu UI/UX Design project aims to create an intuitive and visuall
 ![Home Screen](All dishes (1).png)
 
 ### 2. Menu course
-![Menu Categories](Main Dishes.png)
+![Menu Categories](Main-Dishes.png)
 
 ### 3. Drinks
 ![Drinks](Drinks.png)
