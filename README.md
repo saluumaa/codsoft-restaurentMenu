@@ -11,7 +11,7 @@ The Restaurant Menu UI/UX Design project aims to create an intuitive and visuall
 - [Preview](#preview)
 - [Features](#features)
 - [Design Screens](#design-screens)
-- [Figma Design](#Figma Design)
+- [Figma Design](#Figma-Design)
 - [Contributing](#contributing)
 - [License](#license)
 
