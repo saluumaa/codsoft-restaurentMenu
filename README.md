@@ -1,6 +1,6 @@
 # Restaurant Menu UI/UX Design
 
-![Restaurant Menu Preview]([All_dishes_(1).png)
+![Restaurant Menu Preview](All_dishes_(1).png)
 
 The Restaurant Menu UI/UX Design project aims to create an intuitive and visually appealing menu interface for a restaurant's mobile application.
 
