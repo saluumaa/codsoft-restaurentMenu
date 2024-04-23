@@ -1,8 +1,8 @@
-# Mobile Signup UI/UX Design
+# Restaurant Menu UI/UX Design
 
-![Mobile Signup Preview]()
+![Restaurant Menu Preview](All dishes (1).png)
 
-Mobile Signup is a UI/UX design project focused on creating a user-friendly and visually appealing signup experience for mobile applications.
+The Restaurant Menu UI/UX Design project aims to create an intuitive and visually appealing menu interface for a restaurant's mobile application.
 
 ---
 
@@ -17,28 +17,24 @@ Mobile Signup is a UI/UX design project focused on creating a user-friendly and 
 
 ---
 
-## Preview
-
-![Mobile Signup Preview](link-to-preview-image)
-
----
 
 ## Features
 
-- **User-friendly Interface**: Intuitive design to guide users through the signup process smoothly.
-- **Visual Consistency**: Consistent use of colors, typography, and UI elements for a cohesive look and feel.
+- **Interactive Menu**: Users can easily navigate through different menu categories and items.
+- **Visual Representation**: High-quality images and icons for each menu item to enhance user experience.
 
 ---
 
 ## Design Screens
 
-### 1. Signup Form
-![Signup Form](link-to-signup-form-image)
+### 1. Home Screen
+![Home Screen](All dishes (1).png)
 
-### 2. Confirmation Screen
-![Confirmation Screen](link-to-confirmation-screen-image)
+### 2. Menu course
+![Menu Categories](Main Dishes.png)
 
-[Add more design screens as needed]
+### 3. Drinks
+![Drinks](Drinks.png)
 
 ---
 
@@ -46,17 +42,15 @@ Mobile Signup is a UI/UX design project focused on creating a user-friendly and 
 
 To view the design screens and interact with the prototype:
 
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
-
-[Provide instructions on how to view the design screens or prototype, if applicable.]
+1. Clone or download the repository to your local machine.
+3. Navigate through different screens using the provided links or buttons.
+4. Interact with the prototype as per the provided instructions.
 
 ---
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or improvements for the Mobile Signup design, feel free to:
+Contributions are welcome! If you have any suggestions or improvements for the Restaurant Menu design, feel free to:
 
 1. Fork the repository
 2. Make your changes
@@ -64,11 +58,22 @@ Contributions are welcome! If you have any suggestions or improvements for the M
 
 For major design changes, please open an issue first to discuss your ideas.
 
+---
 
 ## License
 
-[Creative Commons License](link-to-license-details)
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
+
+---
+
+## Acknowledgements
+
+- [Figma](https://www.figma.com/) for providing a platform for designing and prototyping.
+- [Unsplash](https://unsplash.com/) for high-quality images used in the design.
+- [FontAwesome](https://fontawesome.com/) for icons used in the interface.
+
+---
 
 ## Support
 
