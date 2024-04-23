@@ -1,6 +1,6 @@
 # Restaurant Menu UI/UX Design
 
-![Restaurant Menu Preview]([All dishes (1).png](https://github.com/saluumaa/codsoft-signup/blob/main/All%20dishes%20(1).png))
+![Restaurant Menu Preview]([All/dishes/(1).png)
 
 The Restaurant Menu UI/UX Design project aims to create an intuitive and visually appealing menu interface for a restaurant's mobile application.
 
